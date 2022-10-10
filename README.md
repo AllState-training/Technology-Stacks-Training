@@ -1,5 +1,5 @@
-# Technology-Stacks-Training-CEME
-Main areas of Training:
+# Main Technologies Stacks going to use in this Training for project
+Main Technologies Stacks
 1. Flowable(BPMN 2.0) 
 https://www.flowable.com/open-source/docs/bpmn/ch02-GettingStarted
 https://www.flowable.com/open-source/docs/bpmn/ch07a-BPMN-Introduction
@@ -16,3 +16,9 @@ https://www.tutorialspoint.com/reactjs/index.htm
 
 4. Java 8
 https://www.digitalocean.com/community/tutorials/java-8-features-with-examples
+
+Steps to be follow during training:-
+1. Hands on above tehnologies
+2. Create POC on each technology(Create repo with your name)
+3. Work on Seed Project(Event Registration Project-Attached in this repo) (Create repo with your name)
+4. Write notes about your approach
