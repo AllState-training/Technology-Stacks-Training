@@ -18,7 +18,8 @@ https://www.tutorialspoint.com/reactjs/index.htm
 https://www.digitalocean.com/community/tutorials/java-8-features-with-examples
 
 Steps to be follow during training:-
-1. Hands on above tehnologies
-2. Create POC on each technology(Create repo with your name)
-3. Work on Seed Project(Event Registration Project-Attached in this repo) (Create repo with your name)
-4. Write notes about your approach
+1. It is recommended to go through these study material.
+2. Hands-on above technologies.
+3. Create POC on each technology(Create repo with your name).
+4. Work on Seed Project(Event Registration Project-Attached in this repo) (Create repo with your name).
+5. Write notes about your approach.
