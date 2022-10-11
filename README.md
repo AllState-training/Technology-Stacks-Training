@@ -17,6 +17,8 @@ https://www.tutorialspoint.com/reactjs/index.htm
 4. Java 8
 https://www.digitalocean.com/community/tutorials/java-8-features-with-examples
 
+Prerequisite : Please create your own public github account if not exist and search this account https://github.com/AllState-training/
+
 Steps to be follow during training:-
 1. It is recommended to go through these study material. https://github.com/AllState-training?tab=repositories
 2. Hands-on above technologies.
