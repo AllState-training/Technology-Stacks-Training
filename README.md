@@ -1,4 +1,4 @@
-# Main Technologies Stacks going to use in this Training for project
+# Main Technologies Stacks going to use in this Training for our project
 Main Technologies Stacks
 1. Flowable(BPMN 2.0) 
 https://www.flowable.com/open-source/docs/bpmn/ch02-GettingStarted
